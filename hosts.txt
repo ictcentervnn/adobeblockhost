@@ -105,3 +105,4 @@
   0.0.0.0       5zgzzv92gn.adobe.io
   0.0.0.0       8ncdzpmmrg.adobe.io
 127.0.0.1       jc95y2v12r.adobe.io
+127.0.0.1       2ftem87osk.adobe.io
